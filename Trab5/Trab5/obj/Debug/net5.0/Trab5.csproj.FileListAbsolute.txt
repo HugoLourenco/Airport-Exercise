@@ -1,0 +1,32 @@
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\bin\Debug\net5.0\Trab5.exe
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\bin\Debug\net5.0\Trab5.deps.json
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\bin\Debug\net5.0\Trab5.runtimeconfig.json
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\bin\Debug\net5.0\Trab5.runtimeconfig.dev.json
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\bin\Debug\net5.0\Trab5.dll
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\bin\Debug\net5.0\ref\Trab5.dll
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\bin\Debug\net5.0\Trab5.pdb
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.csproj.AssemblyReference.cache
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.AssemblyInfoInputs.cache
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.AssemblyInfo.cs
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.csproj.CoreCompileInputs.cache
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.dll
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\ref\Trab5.dll
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.pdb
+D:\OneDrive - Agrupamento de Escolas de Padre Benjamim Salgado\IEFP\21.0241-J+D programacao .NET-FAD\3935\Resolv\Trab5\Trab5\Trab5\obj\Debug\net5.0\Trab5.genruntimeconfig.cache
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\bin\Debug\net5.0\Trab5.exe
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\bin\Debug\net5.0\Trab5.deps.json
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\bin\Debug\net5.0\Trab5.runtimeconfig.json
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\bin\Debug\net5.0\Trab5.runtimeconfig.dev.json
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\bin\Debug\net5.0\Trab5.dll
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\bin\Debug\net5.0\ref\Trab5.dll
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\bin\Debug\net5.0\Trab5.pdb
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.csproj.AssemblyReference.cache
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.AssemblyInfoInputs.cache
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.AssemblyInfo.cs
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.csproj.CoreCompileInputs.cache
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.dll
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\ref\Trab5.dll
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.pdb
+C:\Users\hugom\source\repos\IEFP\C#\Trab5-resolucao-vs\Trab5\Trab5\obj\Debug\net5.0\Trab5.genruntimeconfig.cache
